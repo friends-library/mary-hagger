@@ -1,6 +1,6 @@
 == Extracts from the Memoranda of Mary Hagger
 
-I WAS blessed with tender parents, +++[+++William and Lettice Knight]
+I was blessed with tender parents, +++[+++William and Lettice Knight]
 who watched over themselves and their families with religious care,
 endeavouring to keep us out of unsuitable company and to protect us from harm,
 taking us frequently to meetings; and were themselves very constant attenders,
@@ -200,6 +200,9 @@ and partake no more of the bitter cup, the wormwood and the gall,
 I should then have something like a heaven upon earth:
 but this is not the place of our rest.
 
+[.small-break]
+'''
+
 +++[+++It appears that she was acknowledged a minister by Hertford monthly meeting,
 in the fourth month, 1794.
 In the year 1797, she removed with her husband and family to Enfield highway,
@@ -257,6 +260,9 @@ at the same time we feel it like rearing a little
 altar of praise to him whose compassions fail not,
 but who enables the upright to hold on their way,
 fixing their hearts in humble trust on him alone.]
+
+[.small-break]
+'''
 
 My brother, William Knight died the 17th of second month, 1814, in his 58th year.
 "`Mark the perfect man, and behold the upright; for the end of that man is peace.`"
@@ -326,7 +332,11 @@ and spent it in the bitterness of my soul.
 Oh! may the everlasting arm continue to be underneath in all our afflictions,
 give us strength to trust in him, to fear him, and to take courage.
 
+[.offset]
 +++[+++Extract from a letter written to a friend at this time.]
+
+[.embedded-content-document.letter]
+--
 
 My dear friend, I hope it will be excusable,
 if in the bitterness of my heart I unfold a little into thy bosom,
@@ -364,9 +374,13 @@ except from him who alone knows I feel unable to offer a sigh or a tear,
 or scarcely to breathe for help; but may he who cares for the sparrows, in his own time,
 care for me and others, who are tried as to an hair`'s breadth.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 M+++.+++ Hagger
+
+--
 
 Tenth month 29th. Our quarterly meeting was large and satisfactory,
 many little seasonable offerings in the forepart; and towards the end,
@@ -480,10 +494,16 @@ printed about the year 1599: "`When the mind thinks nothing,
 when the soul covets nothing, and the body acteth nothing,
 that is contrary to the will of God, this is perfect sanctification.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To a Friend.
 
+[.signed-section-context-open]
 Ashford, 1827.
 
+[.salutation]
 My dear friend,
 
 Thy affectionate lines were truly acceptable;
@@ -520,11 +540,17 @@ I can bear it, and if encouragement, I hope it will do me good.
 When thou art favoured with ability for prayer, or panting for preservation,
 remember thy poor unworthy friend,
 
+[.signed-section-signature]
 Mary Hagger.
+
+--
 
 +++[+++This year, 1827, she removed to Ashford,
 within the compass of Folkstone monthly meeting,
 and was re-acknowledged a member of the Select meeting in fifth month 1830.]
+
+[.small-break]
+'''
 
 Third month 19th.--I arrived safely at Newington, and found my dear children well.
 Not having been at Tottenham for a considerable time,
@@ -833,10 +859,16 @@ that as a father pitieth his children,
 so doth the Lord pity those who love and serve him.
 My mind was depressed: I longed to sit, as Mary did, at the feet of the blessed Redeemer.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Extract of a Letter to a Friend
 
+[.signed-section-context-open]
 Ashford, Second month 15th, 1831.
 
+[.salutation]
 My dear friend,
 
 I have been looking at the date of thy affectionate letter:
@@ -872,9 +904,13 @@ Be encouraged to do what thy hands find to do with all thy might;
 remembering that whilst health and strength are afforded
 is the most acceptable time for service.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 Mary Hagger.
+
+--
 
 Third month 4th,
 1831.--Through unwatchfulness and inattention to that which alone leads safely,
@@ -1485,10 +1521,16 @@ my heart was tenderly affected with the manner in which that bountiful
 hand that provides for the sparrows has provided for me all my life long.
 O my soul, mayest thou live in his fear and love his law!
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Extract of a Letter.
 
+[.signed-section-context-open]
 Ashford, 27th of Eighth month, 1833.
 
+[.salutation]
 My dear friend,
 
 I think I should be very ungrateful if I did not feel obliged for thy kind sympathy.
@@ -1527,9 +1569,13 @@ and by our example and precept exalt his ever adorable Name.
 He can speak peace when trouble surrounds us, and the promise is to the mourners,
 that they shall be comforted.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 M+++.+++ H.
+
+--
 
 Tenth month 16th.--Our valued friend, W. Rickman attended our meeting,
 and revived the inquiry, "`Is there no balm in Gilead, is there no Physician there?
@@ -2212,8 +2258,14 @@ that hath no need of the sun nor of the moon to enlighten it,
 for thy glory doth lighten it, and the Lamb is the light thereof Amen, and amen,
 saith my soul!
 
+[.small-break]
+'''
+
 +++[+++During the above illness, in which her recovery appeared doubtful,
 the following expressions were taken down:]
+
+[.small-break]
+'''
 
 Twelfth month 11th.--"`I felt very low and poorly in the night,
 but I had a comfortable hope, though it did not continue long with me,
@@ -2254,6 +2306,7 @@ Referring to herself, "`My only confidence is in my Saviour.`"
 On the 17th, she began to revive,
 and so far recovered as to be able to pay several visits to her friends.
 
+[.offset]
 +++[+++Returning to her journal]
 
 31st.--The reflecting time is come to part with the past, and enter on the new year:
@@ -2386,10 +2439,16 @@ he is a rich rewarder for every act of obedience!
 I said in my heart, Return to the place of thy rest, O my soul,
 for the Lord thy God hath dealt bountifully with thee.
 
+[.small-break]
+'''
+
 +++[+++In the twelfth month.--This dear invalid was again visited with severe illness,
 which she was enabled to bear with great patience and resignation,
 frequently addressing those who attended her,
 with much humility--when the following expressions were collected:]
+
+[.small-break]
+'''
 
 Twelfth month 19th,
 1836.--It is an awful thing to appear before the Judge of the whole earth:
@@ -2477,6 +2536,7 @@ during meetings, who is now removed from time to eternity;
 also his great care in not entering into light conversation on leaving them.]
 yet she still enjoyed the company of her friends.
 
+[.offset]
 +++[+++Returning to journal]
 
 Fourth month 23rd.--Musing on my pillow this morning,
@@ -2697,7 +2757,8 @@ though it may please him to lay low and abase every other faculty.
 20th.--Oh! the harmony there is in the Lord`'s family! "`Ephraim shall not envy Judah,
 nor Judah vex Ephraim`"--"`they shall not hurt nor destroy in all my holy mountain!`"
 
-* * *
+[.asterism]
+'''
 
 From this time she was almost wholly confined to her house,
 and continued gradually to decline till the ninth month,
@@ -2746,7 +2807,10 @@ There is no end!`"
 She peacefully expired the 25th of first month, at her house at Ash ford in Kent,
 and was interred in Friends`' burial ground there, the 2nd of second month, 1840.
 
+[quote.scripture, , Ps. 37:39-40]
+____
 "`The salvation of the righteous is of the Lord:
 he is their strength in the time of trouble.
 And the Lord shall help them, and deliver them: he shall deliver them from the wicked,
-and save them, because they trust in him.`"--Ps. 37:39-40.
+and save them, because they trust in him.`"
+____
